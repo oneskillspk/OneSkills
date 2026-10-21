@@ -1,0 +1,6 @@
+{
+  "name": "OneSkills - Online Courses & Learning Dashboard",
+  "description": "Modern online learning platform inspired by oneskills.pk for practical tech skills, hands-on modules, and interactive student progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
